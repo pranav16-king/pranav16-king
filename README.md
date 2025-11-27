@@ -1,4 +1,4 @@
-![logo](Profile.jpg)
+![logo](Profile.png)
 <h1 align="center">Hi 👋, I'm Pranav Khaire</h1>
 <h3 align="center">A passionate data science and Ai&ML developer from India</h3>
 
