@@ -1,31 +1,128 @@
 ![logo](Profile.png)
-<h1 align="center">Hi 👋, I'm Pranav Khaire</h1>
-<h3 align="center">A passionate data science and Ai&ML developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav16-king&label=Profile%20views&color=0e75b6&style=flat" alt="pranav16-king" /> </p>
+<h1 align="center">Hi 👋, I'm Pranav Samadhan Khaire</h1>
+<h3 align="center">Aspiring Data Scientist • AI & ML Enthusiast • Full-Stack Learner</h3>
 
-- 🌱 I’m currently learning **Data Science And AI&ML**
-
-- 👨‍💻 All of my projects are available at [https://pranav-portfolio16.netlify.app/](https://pranav-portfolio16.netlify.app/)
-
-- 💬 Ask me about **Python, HTML, CSS, MongoDB, Frontend Development, Data Science, AI/ML**
-
-- 📫 How to reach me **pranavkhaire53@gmail.com**
-
-- 📄 Know about my experiences [https://pranav-portfolio16.netlify.app/](https://pranav-portfolio16.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pranavkhaire16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranavkhaire16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-khaire-732793338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-khaire-732793338" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pranav_khaire___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pranav_khaire___/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://pranav-portfolio16.netlify.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:pranavkhaire53@gmail.com" target="_blank">📧 Email</a> •
+  <a href="https://github.com/pranav16-king" target="_blank">💻 GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranav16-king&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav16-king&show_icons=true&locale=en&layout=compact" alt="pranav16-king" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav16-king&show_icons=true&locale=en" alt="pranav16-king" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav16-king&" alt="pranav16-king" /></p>
+I am **Pranav Samadhan Khaire**, a 2nd-year B.Tech student in **Computer Science & Design** at **Maharashtra Institute of Technology, Chhatrapati Sambhaji Nagar**.  
+I build production-minded, data-driven systems and ML-enabled web applications with a focus on clean UX, maintainable backends, and pragmatic model deployments.
+
+**Core interests & focus**
+- 📊 Data Science & Advanced Analytics  
+- 🤖 Machine Learning, AI & NLP  
+- 🧬 Deep Learning fundamentals  
+- 🗄️ Databases: MongoDB & MySQL  
+- 🐳 Containerization & Deployment (Docker)  
+- ⚙️ Backend APIs with Python & Flask  
+- 🎨 Frontend using HTML, CSS, JavaScript & Tailwind
+
+---
+
+## 🗂 Projects
+> All projects git hub links are live on my portfolio and available in my GitHub repos.
+
+- Blue Carbon MRV System  
+- PM Internship Allocator  
+- Future Skills & AI Advisor  
+- Agri Connect
+
+---
+
+## 🧭 Quick Highlights
+
+- 🎓 **Education:** B.Tech — Computer Science & Design (2nd Year), MIT Chhatrapati Sambhaji Nagar  
+- 🏆 **Selected Awards:**  
+  - 1st Prize — Cogni-Sphere 2025 (IETE, MIT CSN) — Issued: 14 Oct 2025  
+  - 2nd Prize — Sankalpana 2025 (District Level) — Issued: 15 Nov 2025  
+- 📜 **30+ Certifications & Badges** — Microsoft, Oracle, Google Cloud, TCS iON, HCL, IBM, Simplilearn, HP LIFE, and more.  
+- 🧩 **Projects:** 12+ (mix of ML, web apps, and full-stack systems)  
+- 🔭 **Current learning path:** Advanced Data Science → ML → AI → Deep Learning
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages:** Python · JavaScript · SQL · HTML · CSS  
+**Frontend:** Tailwind CSS · Responsive UI · Figma  
+**Backend & APIs:** Flask · REST · Auth patterns  
+**Data & ML:** NumPy · Pandas · scikit-learn · Matplotlib · NLP basics  
+**Deep Learning:** TensorFlow · PyTorch (learning)  
+**Databases:** MongoDB · MySQL · SQLite (prototyping)  
+**Infra & DevOps:** Docker · GitHub Actions · Docker Hub / GHCR  
+**Other tools:** OpenCV · GeoPandas · Jupyter Notebooks · VS Code
+
+---
+
+## 🏅 Certifications (selected)
+- TCS iON — Career Edge (Young Professional) — Completed: 10 Nov 2025  
+- Oracle — OCI AI Foundations Associate — Issued: 11 Nov 2025 (valid until 11 Nov 2027)  
+- Microsoft & HCL — SOAR & Azure AI badges — Oct–Nov 2025  
+- Google Cloud (Simplilearn) — Introduction to Generative AI — Issued: 30 Nov 2025  
+- IBM SkillsBuild — AI Literacy (Verified Badge) — Issued: 26 Oct 2025  
+- Many more (EDUCBA, HP LIFE, CodeWithHarry, Simplilearn, Unstop, SkillEcted)
+
+---
+
+
+
+# 🌐 Connect With Me
+
+<p align="center"> <a href="https://twitter.com/pranavkhaire16" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="55"/> </a> <a href="https://www.linkedin.com/in/pranav-khaire-732793338" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="55"/> </a> <a href="https://www.instagram.com/pranav_khaire___/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="55"/> </a> <a href="https://pranav-portfolio16.netlify.app/" target="_blank"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png?v8" width="55"/> </a> <a href="https://github.com/pranav16-king" target="_blank"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png?v8" width="55"/> </a> <a href="mailto:pranavkhaire53@gmail.com" target="_blank"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png?v8" width="55"/> </a> </p>
+
+
+
+---
+
+# 🛠️ Languages & Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="60" alt="Flask"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics (New, More Accurate Providers)
+
+![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=pranav16-king&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranav16-king&theme=github_dark)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav16-king&theme=github_dark)
+
+### 🔸 **Contribution Streak**
+![GitHub Streak](https://streak-stats.demolab.com?user=pranav16-king&theme=react)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav16-king&theme=react-dark&hide_border=true)
+
+
+## 🎉 Thanks for visiting my GitHub!  
+⭐ **Feel free to star my repositories & connect with me!**
+
+
