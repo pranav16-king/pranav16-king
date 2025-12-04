@@ -3,11 +3,34 @@
 <h1 align="center">Hi 👋, I'm Pranav Samadhan Khaire</h1>
 <h3 align="center">Aspiring Data Scientist • AI & ML Enthusiast • Full-Stack Learner</h3>
 
-<p align="center">
-  <a href="https://pranav-portfolio16.netlify.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:pranavkhaire53@gmail.com" target="_blank">📧 Email</a> •
-  <a href="https://github.com/pranav16-king" target="_blank">💻 GitHub</a>
+<p align="center" style="font-size: 2rem; font-weight: 700;">
+
+  <!-- 🌐 Portfolio -->
+  <a href="https://pranav-portfolio16.netlify.app/" target="_blank" 
+     style="margin: 0 20px; text-decoration: none; color: #4b9cff;">
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png?v8" 
+         width="65" style="vertical-align: middle;"/>
+    <span style="vertical-align: middle;">Visit  Portfolio (Live)</span>
+  </a>
+
+  <!-- 📧 Email -->
+  <a href="mailto:pranavkhaire53@gmail.com" target="_blank"
+     style="margin: 0 20px; text-decoration: none; color: #ffffff;">
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png?v8" 
+         width="65" style="vertical-align: middle;"/>
+    <span style="vertical-align: middle;"> Email</span>
+  </a>
+
+  <!-- 💻 GitHub -->
+  <a href="https://github.com/pranav16-king" target="_blank"
+     style="margin: 0 20px; text-decoration: none; color: #ffffff;">
+    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png?v8" 
+         width="65" style="vertical-align: middle;"/>
+    <span style="vertical-align: middle;"> GitHub</span>
+  </a>
+
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranav16-king&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
