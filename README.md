@@ -1,151 +1,305 @@
-![logo](Profile.png)
-
-<h1 align="center">Hi 👋, I'm Pranav Samadhan Khaire</h1>
-<h3 align="center">Aspiring Data Scientist • AI & ML Enthusiast • Full-Stack Learner</h3>
-
-<p align="center" style="font-size: 2rem; font-weight: 700;">
-
-  <!-- 🌐 Portfolio -->
-  <a href="https://pranav-portfolio16.netlify.app/" target="_blank" 
-     style="margin: 0 20px; text-decoration: none; color: #4b9cff;">
-    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png?v8" 
-         width="65" style="vertical-align: middle;"/>
-    <span style="vertical-align: middle;">Visit  Portfolio (Live)</span>
-  </a>
-
-  <!-- 📧 Email -->
-  <a href="mailto:pranavkhaire53@gmail.com" target="_blank"
-     style="margin: 0 20px; text-decoration: none; color: #ffffff;">
-    <img src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png?v8" 
-         width="65" style="vertical-align: middle;"/>
-    <span style="vertical-align: middle;"> Email</span>
-  </a>
-
-  <!-- 💻 GitHub -->
-  <a href="https://github.com/pranav16-king" target="_blank"
-     style="margin: 0 20px; text-decoration: none; color: #ffffff;">
-    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png?v8" 
-         width="65" style="vertical-align: middle;"/>
-    <span style="vertical-align: middle;"> GitHub</span>
-  </a>
-
-</p>
-
+<!-- Premium Profile README -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav16-king&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,50:1C2541,100:3A506B&text=PRANAV%20SAMADHAN%20KHAIRE&fontColor=ffffff&fontSize=36&fontAlignY=40&desc=AI%2FML%20Engineer%20in%20Training%20%7C%20Automation%20%7C%20Agentic%20AI%20%7C%20Full-Stack&descSize=14&descAlignY=60&animation=fadeIn" alt="header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+real-world+AI+products+with+engineering+discipline;Designing+LangChain+agents+for+multi-step+automation;Creating+mobile-integrated+AI+and+data-driven+applications;Focused+on+impact%2C+reliability%2C+and+practical+delivery" alt="typing" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranav16-king&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00A86B?style=for-the-badge" alt="Open to internships" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20Automation-1F6FEB?style=for-the-badge" alt="Focus" />
+</p>
+
+<p align="center">
+  <a href="https://pranav-portfolio16.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Projects-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/pranav-khaire-732793338" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pranav%20Khaire-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pranavkhaire53@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-pranavkhaire53%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/pranav16-king" target="_blank"><img src="https://img.shields.io/badge/GitHub-pranav16--king-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## Executive Profile
 
-I am **Pranav Samadhan Khaire**, a 2nd-year B.Tech student in **Computer Science & Design** at **Maharashtra Institute of Technology, Chhatrapati Sambhaji Nagar**.  
-I build production-minded, data-driven systems and ML-enabled web applications with a focus on clean UX, maintainable backends, and pragmatic model deployments.
+I am **Pranav Samadhan Khaire**, a B.Tech (Computer Science and Design) student at MIT, Chhatrapati Sambhaji Nagar, building practical AI systems with strong software engineering fundamentals.
 
-**Core interests & focus**
-- 📊 Data Science & Advanced Analytics  
-- 🤖 Machine Learning, AI & NLP  
-- 🧬 Deep Learning fundamentals  
-- 🗄️ Databases: MongoDB & MySQL  
-- 🐳 Containerization & Deployment (Docker)  
-- ⚙️ Backend APIs with Python & Flask  
-- 🎨 Frontend using HTML, CSS, JavaScript & Tailwind
+My work sits at the intersection of **Machine Learning**, **Agentic AI**, **Automation**, and **Full-Stack Product Engineering**. I focus on building systems that are not only intelligent, but also stable, maintainable, and usable in real workflows.
 
 ---
 
-## 🗂 Projects
-> All projects git hub links are live on my portfolio and available in my GitHub repos.
+## Professional Snapshot
 
-- Blue Carbon MRV System  
-- PM Internship Allocator  
-- Future Skills & AI Advisor  
-- Agri Connect
-
----
-
-## 🧭 Quick Highlights
-
-- 🎓 **Education:** B.Tech — Computer Science & Design (2nd Year), MIT Chhatrapati Sambhaji Nagar  
-- 🏆 **Selected Awards:**  
-  - 1st Prize — Cogni-Sphere 2025 (IETE, MIT CSN) — Issued: 14 Oct 2025  
-  - 2nd Prize — Sankalpana 2025 (District Level) — Issued: 15 Nov 2025  
-- 📜 **30+ Certifications & Badges** — Microsoft, Oracle, Google Cloud, TCS iON, HCL, IBM, Simplilearn, HP LIFE, and more.  
-- 🧩 **Projects:** 12+ (mix of ML, web apps, and full-stack systems)  
-- 🔭 **Current learning path:** Advanced Data Science → ML → AI → Deep Learning
+| Category | Details |
+| --- | --- |
+| Role | AI/ML Engineer in Training, Full-Stack Builder |
+| Education | B.Tech in Computer Science and Design (2nd Year) |
+| Primary Specialization | Agentic AI, LangChain Agents, Workflow Automation |
+| Secondary Specialization | Data Science, Backend APIs, Mobile Integration |
+| Tools-First Mindset | Build reusable modules, automations, and deployment-ready systems |
+| Current Objective | Internship and collaboration in AI product engineering |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## What I Build
 
-**Languages:** Python · JavaScript · SQL · HTML · CSS  
-**Frontend:** Tailwind CSS · Responsive UI · Figma  
-**Backend & APIs:** Flask · REST · Auth patterns  
-**Data & ML:** NumPy · Pandas · scikit-learn · Matplotlib · NLP basics  
-**Deep Learning:** TensorFlow · PyTorch (learning)  
-**Databases:** MongoDB · MySQL · SQLite (prototyping)  
-**Infra & DevOps:** Docker · GitHub Actions · Docker Hub / GHCR  
-**Other tools:** OpenCV · GeoPandas · Jupyter Notebooks · VS Code
+### Agentic AI Systems
+
+- Design and implement **LangChain agent pipelines** with tool usage and chaining.
+- Build **multi-step reasoning workflows** for planning, execution, and decision support.
+- Integrate agents with **APIs, data stores, and backend services**.
+- Structure **prompt and memory strategies** for consistent and controlled outputs.
+- Create practical assistants for analytics, recommendations, and productivity automation.
+
+### Automation Engineering
+
+- Develop **Python automation scripts** for repetitive technical workflows.
+- Build **API-connected orchestration** pipelines for data movement and task execution.
+- Create automations for reporting, scheduling, and operational efficiency.
+- Design reusable automation modules with clear inputs, outputs, and monitoring.
+- Improve reliability through modular logic and testable flow design.
+
+### Mobile APK Integration
+
+- Work with **mobile-first application design** and backend-aware feature planning.
+- Understand Android **APK lifecycle**: build, package, version, and release readiness.
+- Integrate mobile clients with APIs for authentication, data sync, and service calls.
+- Bridge AI/ML features into mobile-oriented product workflows.
+- Drive prototype-to-release discipline with practical engineering checkpoints.
+
+### AI/ML and Data Science
+
+- Build end-to-end ML pipelines: preprocessing, feature engineering, training, evaluation.
+- Use **NumPy, Pandas, scikit-learn, Matplotlib** for data-driven model development.
+- Apply NLP foundations to language-centric applications and recommendation use cases.
+- Connect model outputs to real interfaces and business logic.
+- Prioritize explainability, reproducibility, and meaningful performance metrics.
+
+### Full-Stack and Backend Delivery
+
+- Build **Flask REST APIs** with modular architecture and clean routing.
+- Deliver responsive frontends using **HTML, CSS, JavaScript, Tailwind CSS**.
+- Work with **MongoDB, MySQL, SQLite** for structured and semi-structured data.
+- Implement integration-ready systems from frontend to backend to database.
+- Focus on security basics, API consistency, and maintainable code structure.
 
 ---
 
-## 🏅 Certifications (selected)
-- TCS iON — Career Edge (Young Professional) — Completed: 10 Nov 2025  
-- Oracle — OCI AI Foundations Associate — Issued: 11 Nov 2025 (valid until 11 Nov 2027)  
-- Microsoft & HCL — SOAR & Azure AI badges — Oct–Nov 2025  
-- Google Cloud (Simplilearn) — Introduction to Generative AI — Issued: 30 Nov 2025  
-- IBM SkillsBuild — AI Literacy (Verified Badge) — Issued: 26 Oct 2025  
-- Many more (EDUCBA, HP LIFE, CodeWithHarry, Simplilearn, Unstop, SkillEcted)
+## Engineering Architecture Mindset
+
+```mermaid
+flowchart LR
+    A[Problem Definition] --> B[Data Collection & Validation]
+    B --> C[Model or Logic Design]
+    C --> D[Agentic Workflow or Automation Pipeline]
+    D --> E[API Integration]
+    E --> F[Web or Mobile Interface]
+    F --> G[Testing and Iteration]
+    G --> H[Deployment and Monitoring]
+```
+
+I follow a system-first approach where AI is one layer of the solution, not the entire solution.
 
 ---
 
+## Deep Skill Matrix
 
-
-# 🌐 Connect With Me
-
-<p align="center"> <a href="https://twitter.com/pranavkhaire16" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="55"/> </a> <a href="https://www.linkedin.com/in/pranav-khaire-732793338" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="55"/> </a> <a href="https://www.instagram.com/pranav_khaire___/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="55"/> </a> <a href="https://pranav-portfolio16.netlify.app/" target="_blank"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png?v8" width="55"/> </a> <a href="https://github.com/pranav16-king" target="_blank"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png?v8" width="55"/> </a> <a href="mailto:pranavkhaire53@gmail.com" target="_blank"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png?v8" width="55"/> </a> </p>
-
-
+| Domain | Practical Depth | Tools and Frameworks | Delivery Outcome |
+| --- | --- | --- | --- |
+| Agentic AI | Multi-step agents, tool chaining, retrieval-aware orchestration | LangChain, Python, API integrations | Intelligent assistants and automated decision flows |
+| Automation | Workflow scripting, API process orchestration, repeatable pipelines | Python, REST APIs, schedulers, structured scripts | Time-saving production automations |
+| Mobile APK Workflows | Build/package understanding, backend integration, service-driven features | Android APK process, API layer integration | Mobile-ready AI-enabled application flows |
+| ML Engineering | Data pipelines, model evaluation, visualization, feature processing | NumPy, Pandas, scikit-learn, Matplotlib | Predictive and recommendation modules |
+| Backend Engineering | API design, routing, integration patterns, data handling | Flask, REST, MongoDB, MySQL, SQLite | Reliable backend services |
+| Full-Stack Product Delivery | UI + API + data synchronization | JavaScript, Tailwind CSS, Flask stack | Deployable end-to-end products |
+| DevOps Foundations | Containerization and CI fundamentals | Docker, GitHub Actions | Reproducible builds and streamlined deployment |
 
 ---
 
-# 🛠️ Languages & Tools
+## Tech Stack
+
+### Languages
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="60" alt="Flask"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Agentic AI, ML, and Data
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-Agent%20Workflows-121212?style=flat-square&logo=python&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Multi--Step%20Pipelines-0A0A0A?style=flat-square&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Automation-Workflow%20Engineering-FF6F00?style=flat-square&logo=autohotkey&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/NLP-Text%20AI%20Workflows-004D40?style=flat-square&logoColor=white" alt="NLP" />
+</p>
+
+### Backend, APIs, and Data Layer
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-REST%20Backend-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST-API%20Design-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+### Frontend and Mobile Integration
+
+<p>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-1E40AF?style=flat-square&logo=css3&logoColor=white" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/Figma-8E75B2?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Mobile%20APK-Android%20Integration-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Mobile APK" />
+</p>
+
+### DevOps and Workflow Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white" alt="GeoPandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics (New, More Accurate Providers)
+## Portfolio Highlights
 
-![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=pranav16-king&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+### 1) Blue Carbon MRV System
 
+**Purpose**
+- Environmental monitoring, reporting, and verification workflow support.
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranav16-king&theme=github_dark)
+**Engineering Work**
+- Structured data processing and analytical reporting components.
+- Geospatial data interpretation and presentation logic.
+- Workflow clarity for monitoring and verification tasks.
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav16-king&theme=github_dark)
+**Value**
+- Better reporting structure and data-backed environmental insights.
 
-### 🔸 **Contribution Streak**
-![GitHub Streak](https://streak-stats.demolab.com?user=pranav16-king&theme=react)
+### 2) PM Internship Allocator
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav16-king&theme=react-dark&hide_border=true)
+**Purpose**
+- Internship matching and allocation assistance system.
 
+**Engineering Work**
+- Allocation logic and backend rule implementation.
+- Database-backed candidate and internship data handling.
+- Full-stack workflow from data input to result display.
 
-## 🎉 Thanks for visiting my GitHub!  
-⭐ **Feel free to star my repositories & connect with me!**
+**Value**
+- Faster and clearer internship assignment flow.
 
+### 3) Future Skills and AI Advisor
 
+**Purpose**
+- AI-powered skill and learning recommendation system.
+
+**Engineering Work**
+- Recommendation logic and ML-driven guidance approach.
+- User-facing output design for actionable career advice.
+- Integration of AI reasoning with practical learning paths.
+
+**Value**
+- Improved learner decision support and personalized direction.
+
+### 4) Agri Connect
+
+**Purpose**
+- Digital platform concept for agriculture connectivity and service access.
+
+**Engineering Work**
+- End-to-end full-stack integration with backend service logic.
+- Information-flow design for practical agriculture use cases.
+- Product-focused architecture for usability and scalability.
+
+**Value**
+- Stronger digital support pathway for agriculture workflows.
+
+---
+
+## Achievements and Recognition
+
+- **1st Prize**: Cogni-Sphere 2025 (IETE, MIT CSN), issued on **14 Oct 2025**.
+- **2nd Prize**: Sankalpana 2025 (District Level), issued on **15 Nov 2025**.
+- **30+ certifications and badges** across Microsoft, Oracle, Google Cloud, TCS iON, HCL, IBM, Simplilearn, HP LIFE, and others.
+- **12+ completed projects** across AI/ML, web platforms, and full-stack systems.
+
+---
+
+## Selected Certifications
+
+- TCS iON - Career Edge (Young Professional), completed on **10 Nov 2025**.
+- Oracle - OCI AI Foundations Associate, issued on **11 Nov 2025** (valid until **11 Nov 2027**).
+- Microsoft and HCL - SOAR and Azure AI badges (Oct-Nov 2025).
+- Google Cloud (Simplilearn) - Introduction to Generative AI, issued on **30 Nov 2025**.
+- IBM SkillsBuild - AI Literacy Verified Badge, issued on **26 Oct 2025**.
+
+---
+
+## Current Focus (2026)
+
+- Advanced data science workflows and robust model evaluation.
+- Agentic AI architecture using LangChain and tool ecosystems.
+- Reliable automation systems for real operational use.
+- Deployment discipline aligned with MLOps principles.
+- Mobile + backend integration with APK-ready release practices.
+
+---
+
+## Professional Values
+
+- **Problem-first engineering**: Start from user needs and measurable goals.
+- **Reliability over hype**: Build maintainable systems with consistent behavior.
+- **Execution quality**: Design modular code and reusable architecture.
+- **Continuous growth**: Learn fast, ship often, improve based on evidence.
+- **Ownership mindset**: Communicate clearly and deliver accountable results.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=pranav16-king&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav16-king&theme=github_dark" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pranav16-king&theme=react" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav16-king&theme=react-dark&hide_border=true" alt="Activity graph" />
+</p>
+
+---
+
+## Connect With Me
+
+- Portfolio: <https://pranav-portfolio16.netlify.app/>
+- LinkedIn: <https://www.linkedin.com/in/pranav-khaire-732793338>
+- GitHub: <https://github.com/pranav16-king>
+- Email: <mailto:pranavkhaire53@gmail.com>
+- Twitter/X: <https://twitter.com/pranavkhaire16>
+- Instagram: <https://www.instagram.com/pranav_khaire___/>
+
+---
+
+<p align="center"><strong>Building consistent systems. Solving practical problems. Growing with every release.</strong></p>
