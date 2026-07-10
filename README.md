@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pranav-portfolio16.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Projects-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://pranav-portfolio-nine-theta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Projects-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/pranav-khaire-732793338" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Pranav%20Khaire-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pranavkhaire53@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-pranavkhaire53%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/pranav16-king" target="_blank"><img src="https://img.shields.io/badge/GitHub-pranav16--king-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -41,6 +41,23 @@ My work sits at the intersection of **Machine Learning**, **Agentic AI**, **Auto
 | Secondary Specialization | Data Science, Backend APIs, Mobile Integration |
 | Tools-First Mindset | Build reusable modules, automations, and deployment-ready systems |
 | Current Objective | Internship and collaboration in AI product engineering |
+
+---
+
+## Internships & Professional Experience
+
+### HEPro (A Unit of Great Leaders Institute Pvt. Ltd.)
+**AI & Machine Learning Intern** | *12 January 2026 – 12 March 2026*
+- Built an AI-powered student mentoring intelligence system (HEPro AI+).
+- Developed algorithms for academic, wellness, productivity, and career readiness scoring.
+- Applied machine learning (K-Means Clustering) for student segmentation and behavioral analysis.
+- Designed mentor recommendation and intervention logic using Python, Pandas, Scikit-learn, and Data Analytics.
+
+### 3Skill Training
+**AI & Machine Learning Intern** | *2026*
+- Focused on practical implementation and hands-on project-based learning.
+- Developed industry-oriented AI/ML skills aligned with professional standards.
+- Strengthened knowledge of machine learning concepts, analytical thinking, and practical software development.
 
 ---
 
@@ -81,7 +98,7 @@ My work sits at the intersection of **Machine Learning**, **Agentic AI**, **Auto
 ### Full-Stack and Backend Delivery
 
 - Build **Flask REST APIs** with modular architecture and clean routing.
-- Deliver responsive frontends using **HTML, CSS, JavaScript, Tailwind CSS**.
+- Deliver responsive frontends using **HTML, CSS, JavaScript, Tailwind CSS, React, Vite**.
 - Work with **MongoDB, MySQL, SQLite** for structured and semi-structured data.
 - Implement integration-ready systems from frontend to backend to database.
 - Focus on security basics, API consistency, and maintainable code structure.
@@ -114,8 +131,21 @@ I follow a system-first approach where AI is one layer of the solution, not the 
 | Mobile APK Workflows | Build/package understanding, backend integration, service-driven features | Android APK process, API layer integration | Mobile-ready AI-enabled application flows |
 | ML Engineering | Data pipelines, model evaluation, visualization, feature processing | NumPy, Pandas, scikit-learn, Matplotlib | Predictive and recommendation modules |
 | Backend Engineering | API design, routing, integration patterns, data handling | Flask, REST, MongoDB, MySQL, SQLite | Reliable backend services |
-| Full-Stack Product Delivery | UI + API + data synchronization | JavaScript, Tailwind CSS, Flask stack | Deployable end-to-end products |
+| Full-Stack Product Delivery | UI + API + data synchronization | JavaScript, React, Tailwind CSS, Flask stack | Deployable end-to-end products |
 | DevOps Foundations | Containerization and CI fundamentals | Docker, GitHub Actions | Reproducible builds and streamlined deployment |
+
+---
+
+## Technical Skills Summary
+
+Here is a quick overview of my core technical strengths based on my project experience:
+
+- **Frontend Development**: HTML, CSS, JavaScript, Tailwind CSS, UI Components, Responsive Design
+- **Backend & System Development**: Python, Flask, API Design, Authentication Systems
+- **Data Science & Analysis**: NumPy, Pandas, Matplotlib, Data Cleaning & Preprocessing
+- **AI & Machine Learning**: ML Models, Deep Learning, Neural Networks, AI Algorithms
+- **UI/UX & Visual Design**: UI/UX Principles, Wireframes, Prototypes, Visual Design
+- **Git, GitHub & Deployment**: Git, GitHub, Cloud Infrastructure, Project Deployment
 
 ---
 
@@ -157,6 +187,7 @@ I follow a system-first approach where AI is one layer of the solution, not the 
 ### Frontend and Mobile Integration
 
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Responsive%20UI-1E40AF?style=flat-square&logo=css3&logoColor=white" alt="Responsive UI" />
   <img src="https://img.shields.io/badge/Figma-8E75B2?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
@@ -179,63 +210,49 @@ I follow a system-first approach where AI is one layer of the solution, not the 
 ## Portfolio Highlights
 
 ### 1) Blue Carbon MRV System
-
-**Purpose**
-- Environmental monitoring, reporting, and verification workflow support.
-
-**Engineering Work**
-- Structured data processing and analytical reporting components.
-- Geospatial data interpretation and presentation logic.
-- Workflow clarity for monitoring and verification tasks.
-
-**Value**
-- Better reporting structure and data-backed environmental insights.
+**Purpose**: Environmental monitoring, reporting, and verification workflow support.
+**Engineering Work**: Structured data processing, geospatial data interpretation, and workflow clarity for monitoring tasks.
 
 ### 2) PM Internship Allocator
+**Purpose**: Internship matching and allocation assistance system.
+**Engineering Work**: Full-stack workflow, database-backed candidate/internship data handling, and allocation logic.
 
-**Purpose**
-- Internship matching and allocation assistance system.
+### 3) OverthinkAI
+**Purpose**: Multi-agent collaborative intelligence system for complex task processing.
+**Engineering Work**: Agentic architecture, tool chaining, and automated decision flows.
 
-**Engineering Work**
-- Allocation logic and backend rule implementation.
-- Database-backed candidate and internship data handling.
-- Full-stack workflow from data input to result display.
+### 4) Future Skills and AI Advisor
+**Purpose**: AI-powered skill and learning recommendation system.
+**Engineering Work**: Recommendation logic, ML-driven guidance, and user-facing output design.
 
-**Value**
-- Faster and clearer internship assignment flow.
+### 5) SentinelRx AI
+**Purpose**: AI-driven healthcare insights and analysis.
+**Engineering Work**: Deep learning models for medical data, integrated with a secure backend.
 
-### 3) Future Skills and AI Advisor
+### 6) Zerocarbonix
+**Purpose**: Sustainability tracking and carbon footprint reduction platform.
+**Engineering Work**: Data analytics, full-stack implementation, and predictive modeling for emission reduction.
 
-**Purpose**
-- AI-powered skill and learning recommendation system.
+### 7) HealthSpire
+**Purpose**: Comprehensive health tracking and predictive diagnostic tool.
+**Engineering Work**: Health data aggregation, predictive ML algorithms, and intuitive frontend dashboard.
 
-**Engineering Work**
-- Recommendation logic and ML-driven guidance approach.
-- User-facing output design for actionable career advice.
-- Integration of AI reasoning with practical learning paths.
-
-**Value**
-- Improved learner decision support and personalized direction.
-
-### 4) Agri Connect
-
-**Purpose**
-- Digital platform concept for agriculture connectivity and service access.
-
-**Engineering Work**
-- End-to-end full-stack integration with backend service logic.
-- Information-flow design for practical agriculture use cases.
-- Product-focused architecture for usability and scalability.
-
-**Value**
-- Stronger digital support pathway for agriculture workflows.
+### 8) Agri Connect
+**Purpose**: Digital platform concept for agriculture connectivity and service access.
+**Engineering Work**: End-to-end full-stack integration with backend service logic for agricultural workflows.
 
 ---
 
-## Achievements and Recognition
+## Achievements and Competitions
 
-- **1st Prize**: Cogni-Sphere 2025 (IETE, MIT CSN), issued on **14 Oct 2025**.
-- **2nd Prize**: Sankalpana 2025 (District Level), issued on **15 Nov 2025**.
+- **Winner (Sharkpreneur)**: ZENTRIX'26 Pitch Competition (Mar 2026)
+- **1st Prize**: Lightning Pitch 2026 (Feb 2026)
+- **1st Prize**: Cogni-Sphere 2025 (IETE, MIT CSN, Oct 2025)
+- **2nd Prize**: SANKALPANA 2025 (District Level, Nov 2025)
+- **Runner-Up**: Honeywell Sustainability Innovation Challenge (Mar 2026)
+- **State Level Finalist**: DIPEX 2026 Working Model Exhibition (Mar 2026)
+- **Qualified Round 1**: Build for Bharat National Innovation Hackathon (Apr 2026)
+- **Participant**: HackSphere 2025, HackFusion 3, IGNITION 2K26, IDE Bootcamp, IDEATHON 9.0, Government College Ideathon.
 - **30+ certifications and badges** across Microsoft, Oracle, Google Cloud, TCS iON, HCL, IBM, Simplilearn, HP LIFE, and others.
 - **12+ completed projects** across AI/ML, web platforms, and full-stack systems.
 
@@ -243,11 +260,15 @@ I follow a system-first approach where AI is one layer of the solution, not the 
 
 ## Selected Certifications
 
-- TCS iON - Career Edge (Young Professional), completed on **10 Nov 2025**.
-- Oracle - OCI AI Foundations Associate, issued on **11 Nov 2025** (valid until **11 Nov 2027**).
-- Microsoft and HCL - SOAR and Azure AI badges (Oct-Nov 2025).
-- Google Cloud (Simplilearn) - Introduction to Generative AI, issued on **30 Nov 2025**.
-- IBM SkillsBuild - AI Literacy Verified Badge, issued on **26 Oct 2025**.
+- **Oracle Fusion Cloud Applications CX Process Essentials Certified**
+- **Oracle Certification**
+- **TCS iON Career Edge - IT Primer**
+- **Microsoft Skill India Certification**
+- **AICTE IDE Bootcamp Certificate**
+- **Smart India Hackathon Participation**
+- **Wadhwani Bootcamp Certificate**
+- **Zomato Hackathon Participation**
+- **NSUT Certificate**
 
 ---
 
@@ -293,7 +314,7 @@ I follow a system-first approach where AI is one layer of the solution, not the 
 
 ## Connect With Me
 
-- Portfolio: <https://pranav-portfolio16.netlify.app/>
+- Portfolio: <https://pranav-portfolio-nine-theta.vercel.app/>
 - LinkedIn: <https://www.linkedin.com/in/pranav-khaire-732793338>
 - GitHub: <https://github.com/pranav16-king>
 - Email: <mailto:pranavkhaire53@gmail.com>
